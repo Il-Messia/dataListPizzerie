@@ -1,0 +1,16 @@
+[
+    {
+        "index": 0,
+        "Nome":"Da Leo",
+        "Descrizione":"Pizzeria Da Leo",
+        "Contatto":"0434 28298",
+        "MetodoPrenotazione":"Chiamata"
+    },
+    {
+        "index": 1,
+        "Nome":"Mary Jo",
+        "Descrizione":"Pizzeria Mary Jo",
+        "Contatto":"0434 364983",
+        "MetodoPrenotazione":"Chiamata"
+    }
+]
