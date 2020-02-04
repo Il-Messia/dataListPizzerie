@@ -4,7 +4,7 @@
         "Nome":"Da Leo",
         "Descrizione":"Pizzeria Da Leo",
         "Contatto":"0434 28298",
-        "MetodoPrenotazione":"Chiamata"
+        "MetodoPrenotazione":"Chiamata",
         "Image":"https://github.com/Il-Messia/dataListPizzerie/blob/master/DaLeo.png"
     },
     {
@@ -12,7 +12,7 @@
         "Nome":"Mary Jo",
         "Descrizione":"Pizzeria Mary Jo",
         "Contatto":"0434 364983",
-        "MetodoPrenotazione":"Chiamata"
+        "MetodoPrenotazione":"Chiamata",
         "Image":"https://github.com/Il-Messia/dataListPizzerie/blob/master/DaLeo.png"
     }
 ]
