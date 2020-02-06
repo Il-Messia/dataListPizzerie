@@ -16,4 +16,14 @@
         "MetodoPrenotazione":"Chiamata",
         "Image":"https://raw.githubusercontent.com/Il-Messia/dataListPizzerie/master/MaryJo.jpg" 
     }
+    
+    
+    {
+        "index": 1,
+        "Nome":"Planet Pizza",
+        "Descrizione":"Pizzeria Pizza Planet",
+        "Contatto":"0434 364983",
+        "MetodoPrenotazione":"Chiamata",
+        "Image":"https://raw.githubusercontent.com/Il-Messia/dataListPizzerie/master/PlanetPizza.jpg" 
+    }
 ]
