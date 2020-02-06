@@ -6,5 +6,14 @@
         "Contatto":"0434 28298",
         "MetodoPrenotazione":"Chiamata",
         "Image":"https://raw.githubusercontent.com/Il-Messia/dataListPizzerie/master/DaLeo.png"
+    },
+    
+    {
+        "index": 1,
+        "Nome":"Mary Jo",
+        "Descrizione":"Pizzeria Mary Jo",
+        "Contatto":"0434 364983",
+        "MetodoPrenotazione":"Chiamata",
+        "Image":"https://raw.githubusercontent.com/Il-Messia/dataListPizzerie/master/MaryJo.png"
     }
 ]
