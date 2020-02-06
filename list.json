@@ -22,5 +22,13 @@
         "Contatto":"333333366",
         "MetodoPrenotazione":"Chiamata",
         "Image":"https://raw.githubusercontent.com/Il-Messia/dataListPizzerie/master/PlanetPizza.jpg"
+    },
+    {
+        "index":3,
+        "Nome":"Pizza Rock",
+        "Descrizione":"Pizzeria Pizza Rock",
+        "Contatto":"333333366",
+        "MetodoPrenotazione":"Chiamata",
+        "Image":"https://raw.githubusercontent.com/Il-Messia/dataListPizzerie/master/PizzaRock.jpg"
     }
 ]
