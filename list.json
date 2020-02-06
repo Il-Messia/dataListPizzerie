@@ -30,5 +30,12 @@
         "Contatto":"333333366",
         "MetodoPrenotazione":"Chiamata",
         "Image":"https://raw.githubusercontent.com/Il-Messia/dataListPizzerie/master/PizzaRock.jpg"
+    },
+    {
+        "index":4,
+        "Nome":"Alex",
+        "Descrizione":"Pagina di test per messaggi e chiamate",
+        "Contatto":"3519816650",
+        "Image": "https://raw.githubusercontent.com/Il-Messia/dataListPizzerie/master/Logo.png"
     }
 ]
