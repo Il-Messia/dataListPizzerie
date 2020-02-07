@@ -38,4 +38,11 @@
         "Contatto":"3519816650",
         "Image": "https://raw.githubusercontent.com/Il-Messia/dataListPizzerie/master/Logo.png"
     }
+    ,
+    {
+        "index":5,
+        "Nome":"Corona Virus",
+        "Descrizione":"Testing",
+        "Image": "https://raw.githubusercontent.com/Il-Messia/dataListPizzerie/master/Logo.png"
+    }
 ]
