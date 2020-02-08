@@ -38,5 +38,13 @@
         "Contatto":"3519816650",
         "MetodoPrenotazione":"Messaggio",
         "Image": "https://raw.githubusercontent.com/Il-Messia/dataListPizzerie/master/Logo.png"
-    }
+    },
+    {
+        "index":5,
+        "Nome":"Chen",
+        "Descrizione":"Pagina di testing",
+        "Contatto":"3271560964",
+        "MetodoPrenotazione":"Messaggio",
+        "Image":"https://raw.githubusercontent.com/Il-Messia/dataListPizzerie/master/Logo.png"
+     }
 ]
