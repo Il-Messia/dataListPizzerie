@@ -39,13 +39,12 @@
         "MetodoPrenotazione":"Messaggio",
         "Image": "https://raw.githubusercontent.com/Il-Messia/dataListPizzerie/master/Logo.png"
     }
-    ,
-    {
-        "index":5,
-        "Nome":"Corona Virus",
-        "Descrizione":"Testing",
-        "Contatto":"3349042007",
-        "MetodoPrenotazione":"Messaggio",
-        "Image": "https://raw.githubusercontent.com/Il-Messia/dataListPizzerie/master/Logo.png"
-    }
+
+
+
+
+
+
+
+
 ]
